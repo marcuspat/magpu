@@ -19,9 +19,12 @@ including **63 playable recordings**.
 ## Start here
 
 The homepage (`index.html`) is a **version portal**, styled like the original
-site. magpu.com existed in three incarnations — all three are browsable:
+site. magpu.com is **still online today**, and the site existed in three
+incarnations — the live site plus all three are linked:
 
 | Version | Path | What it is |
+|---|---|---|
+| **Still online!** | [magpu.com](https://magpu.com/) | The real thing, live today — the site this recreation is built from |
 |---|---|---|
 | **2000–2008 · The original site** | [`/classic.html`](https://magpu-site-production.up.railway.app/classic.html) | The hand-built original: black background, Band Info, Setlists, Photos, member pages, and the "Magpu is on hiatus" announcement |
 | **2010 · The band wiki** | [`/wiki/HomePage/`](https://magpu-site-production.up.railway.app/wiki/HomePage/) | The site reimagined as a wiki — show pages, song pages, extras |
