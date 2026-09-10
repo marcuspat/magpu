@@ -1,0 +1,5 @@
+#playlist,audio{background:#fff}
+.active a{color:#288;background:#fff;text-decoration:none;}
+li a{color:#175bae;background:#fff;text-decoration:none;}
+li a:visited:active{color:#175bae;background:#fff;text-decoration:none;}
+li a:hover{}
