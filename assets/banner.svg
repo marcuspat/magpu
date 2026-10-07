@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="magpu: magpu.com — full-site recreation of the Magpu band (DFW prog/jam, 1998–2003): 3 site versions, 52 shows, 106 setlists, 63 playable recordings.">
+<title>magpu</title>
+<defs>
+<radialGradient id="aur1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.50"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="aur2"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.9"/><stop offset="0.55" stop-color="#22d3ee" stop-opacity="0.25"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<linearGradient id="tgrad" x1="0" x2="1"><stop offset="0" stop-color="#ffb347"/><stop offset="0.6" stop-color="#ffffff"/><stop offset="1" stop-color="#ffb347"/></linearGradient>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<linearGradient id="hglow" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#ffb347" stop-opacity="0.30"/><stop offset="1" stop-color="#ffb347" stop-opacity="0"/></linearGradient>
+<filter id="soft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="30"/></filter>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="glow2" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="1200" height="400" fill="#04060c"/>
+<ellipse cx="250" cy="120" rx="360" ry="190" fill="url(#aur1)" filter="url(#soft)">
+<animateTransform attributeName="transform" type="translate" values="0 0; 70 24; -40 12; 0 0" dur="26s" repeatCount="indefinite"/>
+</ellipse>
+<ellipse cx="960" cy="150" rx="400" ry="210" fill="url(#aur2)" filter="url(#soft)">
+<animateTransform attributeName="transform" type="translate" values="0 0; -60 18; 34 -12; 0 0" dur="32s" repeatCount="indefinite"/>
+</ellipse>
+<g><circle cx="365" cy="69" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.21s" begin="-3.65s" repeatCount="indefinite"/></circle>
+<circle cx="184" cy="123" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.96s" begin="-1.55s" repeatCount="indefinite"/></circle>
+<circle cx="788" cy="93" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.01s" begin="-0.01s" repeatCount="indefinite"/></circle>
+<circle cx="36" cy="106" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.23s" begin="-1.09s" repeatCount="indefinite"/></circle>
+<circle cx="78" cy="127" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.89s" begin="-2.97s" repeatCount="indefinite"/></circle>
+<circle cx="330" cy="142" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.09s" begin="-4.46s" repeatCount="indefinite"/></circle>
+<circle cx="67" cy="78" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.29s" begin="-2.20s" repeatCount="indefinite"/></circle>
+<circle cx="296" cy="68" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.97s" begin="-2.44s" repeatCount="indefinite"/></circle>
+<circle cx="782" cy="39" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.50s" begin="-2.82s" repeatCount="indefinite"/></circle>
+<circle cx="832" cy="33" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.37s" begin="-2.93s" repeatCount="indefinite"/></circle>
+<circle cx="697" cy="142" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.24s" begin="-4.31s" repeatCount="indefinite"/></circle>
+<circle cx="419" cy="208" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.55s" begin="-2.78s" repeatCount="indefinite"/></circle>
+<circle cx="78" cy="118" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.86s" begin="-4.12s" repeatCount="indefinite"/></circle>
+<circle cx="210" cy="139" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.84s" begin="-4.27s" repeatCount="indefinite"/></circle>
+<circle cx="265" cy="207" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.95s" begin="-3.75s" repeatCount="indefinite"/></circle>
+<circle cx="699" cy="108" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.45s" begin="-4.52s" repeatCount="indefinite"/></circle>
+<circle cx="835" cy="204" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.15s" begin="-4.10s" repeatCount="indefinite"/></circle>
+<circle cx="713" cy="50" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.83s" begin="-3.14s" repeatCount="indefinite"/></circle>
+<circle cx="818" cy="142" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.14s" begin="-3.57s" repeatCount="indefinite"/></circle>
+<circle cx="112" cy="62" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.91s" begin="-1.11s" repeatCount="indefinite"/></circle>
+<circle cx="199" cy="54" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.48s" begin="-2.32s" repeatCount="indefinite"/></circle>
+<circle cx="803" cy="113" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.96s" begin="-3.52s" repeatCount="indefinite"/></circle>
+<circle cx="176" cy="137" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.15s" begin="-2.48s" repeatCount="indefinite"/></circle>
+<circle cx="292" cy="56" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.29s" begin="-0.33s" repeatCount="indefinite"/></circle>
+<circle cx="1112" cy="69" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.60s" begin="-3.15s" repeatCount="indefinite"/></circle>
+<circle cx="175" cy="146" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.39s" begin="-2.36s" repeatCount="indefinite"/></circle></g>
+<rect x="0" y="236" width="1200" height="130" fill="url(#hglow)">
+<animate attributeName="opacity" values="0.45;0.9;0.45" dur="7s" repeatCount="indefinite"/>
+</rect>
+<circle cx="600" cy="242" r="90" fill="url(#orb)">
+<animate attributeName="r" values="78;110;78" dur="6s" repeatCount="indefinite"/>
+</circle>
+<path d="M600 240 L-150 400 M600 240 L0 400 M600 240 L150 400 M600 240 L300 400 M600 240 L450 400 M600 240 L600 400 M600 240 L750 400 M600 240 L900 400 M600 240 L1050 400 M600 240 L1200 400 M600 240 L1350 400" stroke="#155e75" stroke-width="1.3" opacity="0.55" fill="none" stroke-dasharray="12 16">
+<animate attributeName="stroke-dashoffset" values="0;-56" dur="0.9s" repeatCount="indefinite"/>
+</path>
+<path d="M0 252 H1200 M0 268 H1200 M0 290 H1200 M0 318 H1200 M0 352 H1200 M0 392 H1200" stroke="#155e75" stroke-width="1" opacity="0.35" fill="none"/>
+<circle cx="600" cy="241" r="4" fill="#ffb347" filter="url(#glow2)">
+<animate attributeName="opacity" values="0.6;1;0.6" dur="2.6s" repeatCount="indefinite"/>
+</circle>
+<rect x="-260" y="-90" width="170" height="580" fill="url(#beam)" opacity="0.10" filter="url(#soft)" transform="rotate(14)">
+<animateTransform attributeName="transform" type="translate" additive="sum" values="-350 0;1750 0" dur="7s" repeatCount="indefinite"/>
+</rect>
+<rect x="-260" y="-90" width="170" height="580" fill="url(#beam)" opacity="0.07" filter="url(#soft)" transform="rotate(14)">
+<animateTransform attributeName="transform" type="translate" additive="sum" values="-350 0;1750 0" dur="7s" begin="-3.4s" repeatCount="indefinite"/>
+</rect>
+<text x="600" y="66" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="6" fill="#ffb347" opacity="0.85">MARCUSPAT · MAGPU</text>
+<text x="600" y="152" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="#ffb347" opacity="0.55" filter="url(#glow2)">magpu</text>
+<text x="600" y="152" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="url(#tgrad)">magpu</text>
+<text x="600" y="198" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" letter-spacing="0.4" fill="#a8b3c4">magpu.com — full-site recreation of the Magpu band (DFW prog/jam, 1998–2003):</text>
+<text x="600" y="224" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" letter-spacing="0.4" fill="#a8b3c4">3 site versions, 52 shows, 106 setlists, 63 playable recordings.</text>
+
+<g transform="translate(600,308)">
+
+<g><rect x="-440" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;10;10" dur="0.72s" begin="-0.00s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-3;-6" dur="0.72s" begin="-0.00s" repeatCount="indefinite"/></rect>
+<rect x="-406" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;17;10" dur="0.81s" begin="-0.21s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-8;-6" dur="0.81s" begin="-0.21s" repeatCount="indefinite"/></rect>
+<rect x="-372" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;24;10" dur="0.91s" begin="-0.42s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-13;-6" dur="0.91s" begin="-0.42s" repeatCount="indefinite"/></rect>
+<rect x="-338" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;31;10" dur="1.00s" begin="-0.63s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-18;-6" dur="1.00s" begin="-0.63s" repeatCount="indefinite"/></rect>
+<rect x="-304" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;38;10" dur="1.09s" begin="-0.84s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-3;-6" dur="1.09s" begin="-0.84s" repeatCount="indefinite"/></rect>
+<rect x="-270" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;45;10" dur="1.19s" begin="-1.05s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-8;-6" dur="1.19s" begin="-1.05s" repeatCount="indefinite"/></rect>
+<rect x="-236" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;12;10" dur="1.28s" begin="-1.26s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-13;-6" dur="1.28s" begin="-1.26s" repeatCount="indefinite"/></rect>
+<rect x="-202" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;19;10" dur="1.37s" begin="-1.47s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-18;-6" dur="1.37s" begin="-1.47s" repeatCount="indefinite"/></rect>
+<rect x="-168" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;26;10" dur="0.76s" begin="-1.68s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-3;-6" dur="0.76s" begin="-1.68s" repeatCount="indefinite"/></rect>
+<rect x="-134" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;33;10" dur="0.86s" begin="-1.89s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-8;-6" dur="0.86s" begin="-1.89s" repeatCount="indefinite"/></rect>
+<rect x="-100" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;40;10" dur="0.95s" begin="-2.10s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-13;-6" dur="0.95s" begin="-2.10s" repeatCount="indefinite"/></rect>
+<rect x="-66" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;47;10" dur="1.04s" begin="-2.31s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-18;-6" dur="1.04s" begin="-2.31s" repeatCount="indefinite"/></rect>
+<rect x="-32" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;14;10" dur="1.14s" begin="-2.52s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-3;-6" dur="1.14s" begin="-2.52s" repeatCount="indefinite"/></rect>
+<rect x="2" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;21;10" dur="1.23s" begin="-2.73s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-8;-6" dur="1.23s" begin="-2.73s" repeatCount="indefinite"/></rect>
+<rect x="36" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;28;10" dur="1.32s" begin="-2.94s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-13;-6" dur="1.32s" begin="-2.94s" repeatCount="indefinite"/></rect>
+<rect x="70" y="-6" width="20" height="12" rx="4" fill="#ffb347" opacity="0.9" filter="url(#glow)"><animate attributeName="height" values="10;52;18;64;12;35;10" dur="1.42s" begin="-3.15s" repeatCount="indefinite"/><animate attributeName="y" values="-6;-26;-9;-32;-6;-18;-6" dur="1.42s" begin="-3.15s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(360,0)">
+<circle r="58" fill="#0a0a0f" stroke="#3a3f47" stroke-width="2"/>
+<circle r="44" fill="none" stroke="#22262e" stroke-width="1"/>
+<circle r="34" fill="none" stroke="#22262e" stroke-width="1"/>
+<circle r="24" fill="none" stroke="#22262e" stroke-width="1"/>
+<circle r="16" fill="#ffb347" opacity="0.25"><animate attributeName="r" values="14;20;14" dur="1s" repeatCount="indefinite"/></circle>
+<line x1="0" y1="0" x2="0" y2="-44" stroke="#ffb347" stroke-width="2">
+<animateTransform attributeName="transform" type="rotate" values="0;360" dur="1.8s" repeatCount="indefinite"/>
+</line>
+<text y="78" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#7d8590" text-anchor="middle">LIVE · 1998–2003</text>
+</g>
+
+</g>
+</svg>

@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="magpu — animated banner" width="100%"></p>
+
 # magpu.com — Music for your mind
 
 > **Magpu** (rhymes with "fat who") — musically annoying geeks playing ugly.
