@@ -13,7 +13,7 @@ all-Phish Halloween sets to songs about burrito transplant surgery; this repo
 gives the website back.
 
 Rebuilt on **2026-09-09** from every recoverable snapshot in the Internet
-Archive's Wayback Machine (captures spanning 2000–2025): **853 files, ~340 MB**,
+Archive's Wayback Machine (captures spanning 2000–2025): **857 files, ~340 MB**,
 including **63 playable recordings**.
 
 ---
@@ -55,7 +55,7 @@ archive holds — Chrome and Firefox play it natively.
 
 | | |
 |---|---|
-| 52 show pages | `/shows/YYYY-MM-DD-show.html` with notes and posters |
+| 51 show pages | `/shows/YYYY-MM-DD-show.html` with notes and posters — 51 shows recovered; 1 of the original 52 was never captured by the Wayback Machine and is unrecoverable |
 | 106 setlists | [`/setlists/`](https://magpu-site-production.up.railway.app/setlists/) (index generated for this recreation) + all-on-one-page view |
 | 90 song pages | every song they ever played, with debut/last-play dates |
 | 24 news posts | 2003–2020, at `/YYYY/MM/DD/post.html` |
